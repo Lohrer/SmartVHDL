@@ -1,5 +1,5 @@
 import sublime, sublime_plugin
-import re, string, os, imp
+import re, string, os, imp, sys
 
 try:
     from SmartVHDL.util import sublime_util
